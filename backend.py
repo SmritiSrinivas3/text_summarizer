@@ -20,7 +20,7 @@ def generate_response(text):
     headers = {
         "Content-Type": "application/json"
     }
-    url = "http://localhost:11434/api/generate"  
+    url = "http://localhost:11434/api/generate"  # ollama runs at this particular port
     systemPrompt = "Summarize the provided text in maximum 10 sentences (if possible less than 10), capturing all the key points of the text. Try your best not to take more than 10 sentences"
     payload = {
         "model": "phi3",
