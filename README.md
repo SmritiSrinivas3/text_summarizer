@@ -3,7 +3,7 @@
 Text Summarizer made using Phi3 model. Frontend is made with Streamlit, Backend with flask. Ollama is used to run the language model [Phi3](https://ollama.com/library/phi3) 
 
 ## Set up
- - Clone the repository using `https://github.com/SmritiSrinivas3/text_summarizer.git`
+ - Clone the repository using `git clone https://github.com/SmritiSrinivas3/text_summarizer.git`
 
 ### Frontend
  - Install streamlit using `pip install streamlit`
