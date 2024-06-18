@@ -1,0 +1,6 @@
+flask
+numpy
+ollama
+streamlit
+pandas
+pytorch
