@@ -1,6 +1,6 @@
 # Text Summarizer 
 
-Text Summarizer made using Phi3 model. Frontend is made with Streamlit, Backend with flask. Ollama is used to run the small language model Phi3 locally
+Text Summarizer made using Phi3 model. Frontend is made with Streamlit, Backend with flask. Ollama is used to run the small language model Phi3 
 
 ## Set up
  - Clone the repository using `https://github.com/SmritiSrinivas3/text_summarizer.git`
