@@ -11,7 +11,7 @@ Text Summarizer made using Phi3 model. Frontend is made with Streamlit, Backend 
 
 ### Backend
 - Install flask using `pip install flask`
-- Go to the terminal and type 'python backend.py` to run the server
+- Go to the terminal and type `python backend.py` to run the server
 
 ### AI Assistant
 - Download and set up Ollama
